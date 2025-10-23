@@ -2,7 +2,7 @@
 
 💻 I create data-driven solutions for businesses and organizations.
 
-💼 I'm a Business Assurance Specialist.
+💼 I'm a Senior Specialist in Business Intelligence Reporting & Analytics.
 
 👀 I’m open to collaborating on Python, SQL, Excel, and Data Visualization projects using Power BI or Tableau.
 
