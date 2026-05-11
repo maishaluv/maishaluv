@@ -1,13 +1,13 @@
-👋 Hi, howzit? I’m Maisha Luvhani aka @maishaluv.
+👋 Hi, howzit? I’m Maisha Luvhani, also known as @maishaluv.
 
-💻 I create data-driven solutions for businesses and organizations.
+💻 I build practical data-driven solutions that help businesses clean, analyse, automate, and understand their data.
 
-💼 I'm a Senior Specialist in Business Intelligence Reporting & Analytics.
+💼 Senior Specialist: BI Reporting & Analytics, with experience in business intelligence, operational reporting, automation, revenue assurance, and fraud analytics.
 
-👀 I’m open to collaborating on Python, SQL, Excel, and Data Visualization projects using Power BI or Tableau.
+🛠️ I work with Python, SQL, Power BI, Excel, Power Automate, Power Apps, Databricks, and Tableau.
 
-🎶 In my free time, I enjoy creating original music and DJ mixes, and travelling around the world.
+👀 Open to collaborating on data cleaning, dashboarding, reporting automation, CRM data quality, SQL analysis, and business intelligence projects.
 
-⌨️ On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data.
+🎶 Outside of data, I create original music and DJ mixes, and I enjoy travelling whenever I can.
 
-
+⌨️ On this GitHub, you’ll find portfolio projects that show how I turn business problems into practical data solutions.
